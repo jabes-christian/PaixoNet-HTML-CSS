@@ -93,6 +93,7 @@ header {
     align-items: center;
     flex-direction: column;
     color: #fff;
+    cursor: pointer;
 }
 
 .card:hover {
@@ -208,4 +209,5 @@ footer {
 .social img {
     width: 30px;
     margin-left: 15px;
+    cursor: pointer;
 }
