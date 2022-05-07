@@ -8,6 +8,7 @@ body {
 header {
     display: flex;
     justify-content: center;
+    cursor: pointer;
 }
 
 .logo h2 {
@@ -178,6 +179,7 @@ header {
     outline: none;
     border-radius: 2px;
     font-family: 'Oswald';
+    cursor: pointer;
 }
 
 input::placeholder{
